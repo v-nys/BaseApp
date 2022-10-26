@@ -28,9 +28,9 @@ De API draait in een subfolder /api.
 ![Architectuur](./netwerkschema.jpeg)
 
 Indien je een foutmelding krijgt bij het binnenhalen van de docker images van docker hub, gebruik dan volgende locaties:
-    Node: public.ecr.aws/i9i5l3g4/node:17-alpine3.14
-    Nginx: public.ecr.aws/i9i5l3g4/nginx:1.22
-    Mysql: public.ecr.aws/i9i5l3g4/mysql:8.0.29-debian
+* Node: public.ecr.aws/i9i5l3g4/node:17-alpine3.14
+* Nginx: public.ecr.aws/i9i5l3g4/nginx:1.22
+* Mysql: public.ecr.aws/i9i5l3g4/mysql:8.0.29-debian
 
 ## Opdracht:
 
