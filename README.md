@@ -1,6 +1,6 @@
 # BaseApp
 
-Welkom bij het de repository voor de doorlopende opdracht van DevOps. 
+Welkom bij het de repository voor opdrachten over Docker Compose van DevOps. 
 
 ## Situatie
 
